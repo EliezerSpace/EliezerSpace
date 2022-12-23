@@ -5,7 +5,7 @@
 -->
 
 Hi, I am Hal!
-目前是电子科学与技术专业的大学生。
+EE大学生
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning FPGA
