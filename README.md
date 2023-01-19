@@ -23,33 +23,3 @@ It is Eliezer!
 
 
 
-
-
-
-
-
-
-asdads
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-asdasd
