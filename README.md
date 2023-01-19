@@ -4,7 +4,7 @@
 **HalSpace/HalSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hi, It is Eliezer!
+It is Eliezer!
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning FPGA/ZYNQ
